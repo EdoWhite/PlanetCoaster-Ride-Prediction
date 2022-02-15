@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="70%" height="70%"src="/assets/coaster2.jpg">
+  <img width="70%" height="70%"src="/assets/coaster.jpg">
 </p>
 
 # PlanetCoaster Ride Rating Prediction
