@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="70%" height="70%"src="/assets/coaster2.jpg">
+</p>
+
 # PlanetCoaster Ride Rating Prediction
 This is a Data Science and Machine Learning project regarding roller coasters rides that can be created in a famous game: Planet Coaster.
 This game uses an AI to rate the user-created rides, this rating influences different aspects of the game. Buildin good rides it's important and knowing in advance if a ride will be good rated in the game can be usefull. The main goal of this project is to **predict the rating of a new ride in Planet Coaster before actually building it.**
