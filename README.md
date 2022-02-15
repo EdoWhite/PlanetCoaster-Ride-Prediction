@@ -8,7 +8,7 @@ This game uses an AI to rate the user-created rides, this rating influences diff
 
 **In the jupyter notebook it is reported the _complete project_ with descriptions and comments.**
 
-## Main Steps Involved
+## Main Steps of the Project
 The project consist of different steps, the most important are reported here.
 1. Data Reading
 2. Exploratory Data Analysis and Data Cleaning
