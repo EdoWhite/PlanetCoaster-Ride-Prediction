@@ -2,7 +2,7 @@
   <img width="70%" height="70%"src="/assets/coaster.jpg">
 </p>
 
-# Planet Coaster Ride Rating Prediction - Overview
+# Planet Coaster Ride Rating Prediction
 Planet Coaster is a famous computer and console video game developed by Frontier. In this game the user creates and manages theme parks, from staff hiring to marketing campaigns. Basically the main goal is make guests happy, and in order to do so building attractive roller coasters is one of the most important tasks. When the user builds a new ride, this ride is tested by the artificial intelligence of the game, that simulates real riders, and then a final rating is shown.
 
 The rating system consists of three metrics: Excitement, Fear and Nausea, all this metrics must be in a certain interval to classify a ride as "good" in the game.
